@@ -1,3 +1,4 @@
+--http://www.sqlservercentral.com/Forums/Topic1239476-357-1.aspx
 DECLARE @name VARCHAR(50) -- database name
 DECLARE @path VARCHAR(256) -- path for backup files
 DECLARE @fileName VARCHAR(256) -- filename for backup
